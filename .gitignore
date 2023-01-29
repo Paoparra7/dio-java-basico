@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+sistema_smart_tv/.vscode/settings.json
+trilha_java_basico/java_anatomia_classes/.vscode/settings.json
+trilha_java_basico/java_anatomia_classes/src/edu/Paola/Calificaciones/Primer Semestre/BoletimEstudantil.java
+trilha_java_basico/java_anatomia_classes/src/edu/Paola/Calificaciones/Segundo Semestre/MinhaClasse.java
